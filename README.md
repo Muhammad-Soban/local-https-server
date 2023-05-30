@@ -93,6 +93,7 @@ This tool is built using the following open-source libraries:
 - [serve-index](https://www.npmjs.com/package/serve-index)
 - [cors](https://www.npmjs.com/package/cors)
 - [morgan](https://github.com/expressjs/morgan)
+- [minimist](https://github.com/minimistjs/minimist)
 
 ## Contributing
 
